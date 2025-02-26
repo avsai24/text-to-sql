@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyApH0l3NSqDZd5wtdRD4ISR0Y6V5v0ZtWA")  
+genai.configure(api_key)  
 
 DATABASES = ["student.db","employees.db","sales.db"]
 
