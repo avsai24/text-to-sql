@@ -86,7 +86,7 @@ MIT License – Free to use and modify.
 
 📬 Contact
 
-📩 Email: venkatasaifullstack@gmail.com
-🤝 LinkedIn: Venkata Sai
+📩 Email: venkatasaiancha24@gmail.com
+🤝 LinkedIn: Venkata Sai Ancha
 
 ---
